@@ -1,8 +1,8 @@
 # react-test
 
-## run
-Install yarn:
-https://yarnpkg.com/en/docs/install#linux-tab
+## Prerequisites
+* [yarn](https://yarnpkg.com/en/docs/install#linux-tab)
 
-yarn install
-yarn start
+## run
+* `yarn install`
+* `yarn start`
