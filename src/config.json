@@ -1,0 +1,10 @@
+{
+    "develop": {
+        "debugLogs": true,
+        "loggerUrl": null
+    },
+    "production": {
+        "debugLogs": false,
+        "loggerUrl": null
+    }
+}
